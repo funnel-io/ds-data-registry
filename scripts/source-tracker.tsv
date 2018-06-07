@@ -1,0 +1,444 @@
+source_type	Customer count	GDS Source Id	GDS Org Id	Icon URL	source URL	GDS Category	In GDS?	Updated source config?	Comment
+googleanalytics	540	GOOGLE_ANALYTICS	GOOGLE			ADVERTISING	y		
+adwords	512	GOOGLE_ADWORDS	GOOGLE			ADVERTISING	y		
+facebook	458	FACEBOOK_ADS	FACEBOOK			ADVERTISING	y		
+bing	339	BING_ADS	MICROSOFT			ADVERTISING	Y		
+facebookads	260	FACEBOOK_ADS	FACEBOOK			ADVERTISING	y		
+criteo	161	CRITEO	CRITEO			ADVERTISING	y		
+twitter	158	TWITTER_ADS	TWITTER			ADVERTISING	y		
+linkedin_api	131	LINKEDIN_ADS	MICROSOFT			ADVERTISING	y		
+adroll	91	ADROLL	ADROLL			ADVERTISING	y		
+mailchimp_api	72	MAILCHIMP	MAILCHIMP			EMAIL	y		
+doubleclick_campaignmanager_api	71	GOOGLE_DCM	GOOGLE			ADVERTISING	y		
+doubleclick_bidmanager_api	66	GOOGLE_DBM	GOOGLE			ADVERTISING	y		
+pinterest	61						exclude		pinterest ads (!= analytics)
+yahoo	56	YAHOO_GEMINI	YAHOO			ADVERTISING	y		
+outbrain	56	OUTBRAIN	OUTBRAIN	https://www.outbrain.com/favicon/favicon-64x64.png	https://www.outbrain.com/	ADVERTISING			
+taboola	51	TABOOLA	TABOOLA	https://www.taboola.com/sites/all/themes/taboola2017/images/taboola/favicon.png	https://www.taboola.com/	ADVERTISING			
+snapchat	50	SNAPCHAT	SNAPCHAT	https://forbusiness.snapchat.com/images/snap-logo.svg	https://forbusiness.snapchat.com/l/en-gb/	ADVERTISING			
+adform_api	46	ADFORM	ADFORM			ADVERTISING	y		
+pricerunner	43	PRICERUNNER	PRICERUNNER	https://images.pricerunner.com/images/i/favicon-32x32-default.png	https://www.pricerunner.se/	ADVERTISING			
+kelkoo	40	KELKOO	KELKOO	http://www.kk-data.com/s/images/favicon/57x57.png	http://www.kelkoo.se/	ADVERTISING			
+awin	37	AWIN	AWIN	https://www.awin.com/favicon-32x32.png	https://www.awin.com	ADVERTISING			
+prisjakt_web	34	PRISJAKT	PRISJAKT	https://cdn.pji.nu/g/touch-icon-iphone-retina-se-precomposed.png	https://www.prisjakt.nu/	ADVERTISING			
+tradedoubler_api	32	TRADEDOUBLER	TRADEDOUBLER	http://www.tradedoubler.com/wp-content/themes/tradedoubler/dist/img/icon-32x32.png	http://www.tradedoubler.com/en/	ADVERTISING			
+cjaffiliate	32	CJAFFILIATE	CONVERSANT		https://www.cj.com/	ADVERTISING			
+adtraction	31	ADTRACTION	ADTRACTION		https://adtraction.com/	ADVERTISING			
+shopalike_web	28	SHOPALIKE	VISUAL_META		https://www.shopalike.se/	ADVERTISING			
+rakutenlinkshare_api	27	RAKUTEN	RAKUTEN		https://rakutenmarketing.com/affiliate	ADVERTISING			
+stylight	26	STYLIGHT	STYLIGHT		https://www.stylight.com/	ADVERTISING			
+tradetracker_api	25	TRADETRACKER	TRADETRACKER		https://tradetracker.com/	ADVERTISING			
+applesearchads_api	23	APPLE_SEARCH_ADS	APPLE		https://searchads.apple.com/	ADVERTISING			
+zanox_api	23	ZANOX	AWIN		https://www.zanox.com	ADVERTISING			
+yandex	21	YANDEX_DIRECT	YANDEX			ADVERTISING	y		
+capterra	19	CAPTERRA	GARTNER		https://www.capterra.com/	ADVERTISING			
+leguide	19	LEGUIDE	LEGUIDE		https://www.affili.net/uk/home	ADVERTISING			
+affilinet_api	19	AFFLINET	AWIN		https://www.affili.net/uk/home	ADVERTISING			
+quora	18	QUORA	QUORA		https://www.quora.com/	ADVERTISING			
+idealo	18	IDEALO	IDEALO		https://www.idealo.de/	ADVERTISING			
+marktplaats_api	18	MARKTPLAATS	EBAY		https://www.marktplaats.nl/	ADVERTISING			
+quantcast	17	QUANTCAST	QUANTCAST		https://www.quantcast.com/	ADVERTISING			
+amazonadvertising_api	17	AMAZON	AMAZON			ECOMMERCE	y		
+vertaa	17	VERTAA	COMPARE_GROUP		https://www.vertaa.fi/	ADVERTISING			
+doubleclicksearch	17	GOOGLE_DS	GOOGLE			ADVERTISING	y		
+thetradedesk	15	THE_TRADE_DESK	THE_TRADE_DESK		https://www.thetradedesk.com/	ADVERTISING			
+ladenzeile_web	15	LADENZEILE	VISUAL_META		https://www.ladenzeile.de/	ECOMMERCE			
+klaviyo	14	KLAVIYO	KLAVIYO		https://www.klaviyo.com/	EMAIL			
+shareasale	13	SHAREASALE	SHAREASALE			MARKETING	y		
+webgains	13	WEBGAINS	AD_PEPPER_GROUP		http://www.webgains.com/	ADVERTISING			
+beslist_web	13	BESLIST	BESLIST		https://www.beslist.nl/	ADVERTISING			
+yahoo_japan_search	13	YAHOO_JP_SEARCH	YAHOO		https://search.yahoo.co.jp/	ADVERTISING			
+nosto	12	NOSTO	NOSTO		http://www.nosto.com/	ADVERTISING			
+revcontent	12	REVCONTENT	REVCONTENT		https://www.revcontent.com/	ADVERTISING			
+connexity	12	CONNEXITY	CONNEXITY		http://connexity.com/	ADVERTISING			
+ebaycommerce	11	EBAY	EBAY			ECOMMERCE	y		
+shopello	11	SHOPELLO	SHOPELLO		https://www.shopello.se/	ADVERTISING			
+naver	11	NAVER	NAVER		https://www.naver.com/	ADVERTISING			
+billiger_de	11	BILLIGER	BILLIGER		https://www.billiger.de/	ADVERTISING			
+apprl	11	APPRL	APPRL		https://apprl.com/	ADVERTISING			
+daisycon_api	11	DAISYCON	DAISYCON		https://www.daisycon.com/	ADVERTISING			
+baidu	11	BAIDU	BAIDU		https://www.baidu.com/	ADVERTISING			
+rtbhouse	11	RTBHOUSE	RTBHOUSE		https://www.rtbhouse.com/	ADVERTISING			
+reddit	10	REDDIT_ADS	REDDIT			ADVERTISING			
+kieskeurig	9								
+stackadapt	9								
+adservice	9								
+appnexus_api	9								
+seznam	9								
+appsflyer	9					ANALYTICS			
+sizmekmdx	9								
+hintaseuranta	8								
+polyvore	8								
+simplifi	8								
+affiliatewindow_api	8								
+veinteractive	8								
+apsis	8								
+prisguide_web	8								
+stylelounge	8								
+sociomantic	8								
+dianomi	7								
+tapjoy	7								
+sizmekdsp	7								
+twenga	7								
+mediamath	7								
+plista	7								
+shopping24_web	7								
+yelp	7	YELP	YELP			ADVERTISING			
+adrecord	6	ADRECORD	ADRECORD		https://www.adrecord.com/en/start				
+trivago	6	TRIVAGO	EXPEDIA		https://www.trivago.se/	ADVERTISING, TRAVEL			
+mybestbrands	6								
+vkads	6					ADVERTISING, SOCIAL			
+linkedin	6								
+deltaprojects	6								
+steelhouse	6								
+7pixel	6								
+vergelijk	6		COMPARE_GROUP						
+indeed	6								
+eyereturn	6								
+metaio	6								
+yahoo_japan_ydn	6								
+perfectaudience	5								
+glami	5								
+360	5								
+pepperjamnetwork	5								
+geizhals	5								
+startapp	5								
+zbozi	5								
+mytarget	5								
+hasoffers_v2	5								
+partnerads_api	5								
+ceneo	5								
+myshopping_web	5								
+guenstiger	5								
+cherchons	5								
+daum	5								
+postaffiliate	5								
+heurekacz	5								
+liftoff	5								
+admitad	5								
+tripadvisor	4	TRIPADVISOR	TRIPADVISOR			TRAVEL	exclude		
+softwareadvice	4								
+tracdelight	4								
+moebel_web	4								
+sogou	4								
+channelpilot	4								
+zemanta	4								
+remerge	4								
+nextag	4								
+profitmax	4								
+domodi	4								
+getprice_web	4								
+voluum	4								
+performission	4								
+spotashop	4								
+yandexdisplay	4								
+liquidm	4								
+shopbot	4								
+okazje	4								
+tubemogul	4								
+applovin_web	4								
+belboon	3								
+2performant	3								
+prisfakta	3								
+commissionfactory_web	3								
+impactradius_web	3								
+netaffiliation	3								
+unityads	3								
+aduptech	3								
+sailthru	3								
+basisdsp	3								
+fuelx	3								
+eperflex	3								
+effiliation	3								
+bronto	3								
+stileo	3								
+avantlink	3								
+derbysoft	3								
+shopmania	3								
+effinitymartech	3								
+kickback	3								
+ironsource	3								
+pureshopping	3								
+zanox	3								
+tweakers_web	3								
+euroads	3								
+allani	3								
+bamx	3								
+jampp	3								
+getapp	3								
+powerspace	3								
+lockerdome	3								
+rocketfuel	3								
+prisjakt	3								
+listrak	3	LISTRAK	LISTRAK			EMAIL	y		
+brightrolldsp	3								
+crossinstall	3								
+custom_veritymarketing_magento	2								
+smartadserver	2								
+custom_olx_adjust	2								
+chinesean	2								
+lamodapl	2								
+recheckit	2								
+homelookit	2								
+jojka	2								
+conversant	2								
+valuecommerce	2								
+bidtheatre_api	2								
+dbaadmanager	2								
+arukereso	2								
+adcell	2								
+googlehotelads	2								
+meubles	2								
+custom_msodigital_matelso	2								
+adcolony	2								
+custom_beenverified_peoplefindersdisplay	2								
+ligatusselfbooking	2								
+pipl	2								
+heurekask	2								
+custom_brillmedia_vistarmedia	2								
+meetrixonline	2								
+bidtheater	2								
+mailchimp	2	MAILCHIMP	MAILCHIMP			EMAIL			
+prisguide	2								
+custom_ncontextvegasgirlsnightout_beeswax	2								
+custom_izettle_salesforce	2								
+custom_ncontextinferno_beeswax	2								
+custom_beenverified_homefacts	2								
+cordial	2								
+custom_beenverified_acceleration	2								
+divisiond	2								
+custom_motionglobal_vizury	2								
+custom_goodgamestudios_reflexcash	2								
+custom_brandedonlinealloy_cybbaanalytics	2								
+fyber	2								
+custom_revolutionmessaging_actblue	2								
+custom_giltgroupe_line	2								
+custom_cheddar_twittertweet	2								
+custom_revolutionmessaging_bsd	2								
+engageya	2								
+terminus	2								
+choozle	2								
+mediaalpha	2								
+yiqifa	2								
+travelta	2								
+adblade	2								
+trovit	2								
+compari	2								
+ipinyou	2								
+gamned	2								
+pazaruvaj	2								
+hardwareinfo	2								
+tradetracker	2								
+jetcost	2								
+preis_de	2								
+custom_brandedonlinealloy_cybba	2								
+nextperf	2								
+performmedia	2								
+appnexus	2								
+shenma	2								
+performancehorizon	2								
+custom_goodgamestudios_gamekit	2								
+custom_beenverified_peekyoudisplay	2								
+yandexmarket	2								
+custom_matsmart_campaigncontribution	2								
+custom_beenverified_peoplefindersdisplaytps	2								
+custom_meliahotels_convertreo	2								
+fashionchick	2								
+startpagina	2								
+referralcandy	2								
+custom_ncontextkimmelcenter_beeswax	2								
+sizmekadsuite	2								
+custom_lainasto_gaproductperformance	2								
+custom_beenverified_pushnami	2								
+intentmedia	2								
+custom_goodgamestudios_ad4game	2								
+custom_goodgamestudios_mgid	2								
+custom_tophatter_dapio	2								
+adviral	2								
+kuantokusta	2								
+rakutenperformance	2								
+olcsobbat	2								
+biano	2								
+custom_dashlane_liveintent	2								
+custom_beenverified_peoplefinders	2								
+custom_beenverified_peekyou	2								
+custom_jstokesagency_dstillery	2								
+custom_tophatter_thetradedeskmanagedservice	2								
+custom_yoox_clickwise	2								
+custom_thewardgroup_varickmedia	2								
+custom_travelcorporation_marin	1								
+daisycon	1								
+pushcrew	1								
+custom_sembo_kayak	1								
+recruitnow	1								
+lyst	1								
+idealotravel	1								
+linkconnector	1								
+custom_contorion_ebayads	1								
+publicideas	1								
+inhaus	1								
+depohu	1								
+earnify	1								
+favi	1								
+sourceknowledge	1								
+stumbleupon	1								
+jobbird	1								
+travelsupermarket	1								
+linkedinv2test	1								
+bing_v2	1								
+foremail	1								
+hubspotdeals	1								
+custom_funnel_hubspot_opentrials	1								
+communicationads	1								
+custom_ncontextthunderfromdownunder_beeswax	1								
+aklamio	1								
+go2mobi	1								
+dmv	1								
+custom_bookinggroup_kayak_core	1								
+rejoiner	1								
+familywatchdog	1								
+custom_brainlabs_adobeanalytics	1								
+custom_happychic_adobeanalytics_application	1								
+feathr	1								
+custom_nordstrom_onebyaol	1								
+custom_lesara_catchys	1								
+test2	1								
+custom_goodgamestudios_pchmedia	1								
+custom_sembo_momondo	1								
+bencom	1								
+applovin	1								
+linkprice	1								
+custom_waycom_salecycle	1								
+adtiger	1								
+poptravelfi	1								
+evilia	1								
+mitula	1								
+najnakup	1								
+custom_vccpmedia_yoc_inmobi_tune	1								
+addaptive	1								
+admotion	1								
+xing	1								
+buysellads	1								
+adform_dims	1								
+custom_ncontextpottedpotter_beeswax	1								
+cheetahads	1								
+custom_mackweldon_liveintent	1								
+custom_beenverified_wideorbitairtime	1								
+custom_beenverified_rtx_intext	1								
+custom_ncontextcomhouston_beeswax	1								
+remailme	1								
+customfunnel1921	1								
+impressiondesk	1								
+bolcom	1								
+tapstone	1								
+kundenfischer	1								
+360ops	1								
+applift	1								
+adform	1								
+pepperjam	1								
+custom_test_test	1								
+emetriq	1								
+ibillboard_web	1								
+custom_truprint_adobeanalytics	1								
+datalift360	1								
+datalift360managed	1								
+heyzap	1								
+platform161	1								
+iqu	1								
+adgeartrader	1								
+clicksend	1								
+emarbox	1								
+skrz	1								
+custom_marcopolo_metalyzer	1								
+deltaprojectssting	1								
+mellis	1								
+priceza	1								
+custom_ncontextaustralianbeegees_beeswax	1								
+custom_sembo_tripadvisor	1								
+datalift360selfserve	1								
+theaffiliategateway	1								
+liligo	1								
+jobrapido	1								
+custom_canucks_geniussports	1								
+doublenet	1								
+match2one	1								
+custom_johannes_testar	1								
+leadalliance	1								
+shopback	1								
+taximail	1								
+herolens	1								
+custom_happychic_adobeanalytics_website	1								
+fanplayr	1								
+digitalturbine	1								
+sravni	1								
+custom_tophatter_blisspointmedia	1								
+adzuna	1								
+custom_finc3_quora	1								
+admarvel	1								
+tune	1								
+selfadvertiser	1								
+shoppingsearch_jp	1								
+custom_bookinggroup_kayak_ads	1								
+iprice	1								
+skapiec	1								
+whatsbroadcast	1								
+custom_mackweldon_triplelift	1								
+pricepanda	1								
+mobads	1								
+linkwise	1								
+custom_jollyroom_trafficbudget	1								
+topcashback	1								
+gopl	1								
+custom_vccpmedia_tune	1								
+extole	1								
+voxus	1								
+hivewyre	1								
+custom_bookinggroup_skyscanner	1								
+talkable	1								
+custom_bookinggroup_autorentals	1								
+hasoffers	1								
+custom_bookinggroup_smartertravel	1								
+salestring	1								
+monetise	1								
+strossle	1								
+custom_beenverified_rtx_pops	1								
+test	1								
+custom_instacart_adikteev_instacartios	1								
+custom_totalloyalty_closeio	1								
+custom_instacart_adikteev_instacartandroid	1								
+cheetahmedialink	1								
+adaction	1								
+custom_funnel_budgettest	1								
+minimob	1								
+blindferret	1								
+adspreemedia	1								
+ad2games	1								
+doubleclick	1								
+stylewish	1								
+applike	1								
+flightmate	1								
+fluent	1								
+doubleclick_campaignmanager	1								
+vungle	1								
+custom_thewardgroup_adelphic_twomenandatruckdallas	1								
+ligatus	1								
+arcedula	1								
+mellis2	1								
+hilltopads	1								
+imo	1								
+custom_apexhotels_wisepops	1								
+zeropark	1								
+custom_funnel_sftptester	1								
+custom_beenverified_rtx_native	1								
+custom_happyidiots_lionshome	1								
+doubleclick_bidmanager	1								
+rtx	1								
+custom_dashlane_aura	1								
+manage	1								
+welovex	1								
+tapfiliate_api	1								
+chartboost	1								
+custom_goodgamestudios_addeals	1								
+pwngames	1								
+taptica	1								
+custom_simplesite_propelmedia	1								
