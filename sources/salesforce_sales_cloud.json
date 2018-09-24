@@ -1,0 +1,9 @@
+{
+  "id": "SALESFORCE_SALES_CLOUD",
+  "name": "Salesforce Sales Cloud",
+  "categories": ["CRM"],
+  "organization": "SALESFORCE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/salesforce_sales_cloud.png",
+  "sourceUrl": "https://www.salesforce.com/en/products/sales-cloud/overview/",
+  "dataVisibility": ["PRIVATE"]
+}
